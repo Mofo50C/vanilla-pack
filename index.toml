@@ -76,6 +76,11 @@ hash = "4697f8eec2f5a8a6a3aca65ebad0cac1f6c6a29b4c0433e489d98985854731c5"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "945b097fe9fe561eb72dc811fd49f8f3dd43d88f7689c11a4a0863f70a4d39b8"
+metafile = true
+
+[[files]]
 file = "mods/no-enchant-cap.pw.toml"
 hash = "435ba8cee7cb70c66c183cdc7cf440071a6c28fed3fdd529ecba5170b5545194"
 metafile = true
