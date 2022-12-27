@@ -1,0 +1,13 @@
+name = "No Enchant Cap"
+filename = "noenchantcap-fabric-1.19.3-2.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wd6j35NE/versions/kV6QakX1/noenchantcap-fabric-1.19.3-2.2.5.jar"
+hash-format = "sha1"
+hash = "b6ac729e5f7851534dc25c422c796b749b371e4f"
+
+[update]
+[update.modrinth]
+mod-id = "Wd6j35NE"
+version = "kV6QakX1"

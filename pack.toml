@@ -1,0 +1,13 @@
+name = "Vanilla Pack"
+author = "Mofo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a1beb8ca9d2708acbadf2433d4101bf5add773ae91bdf3c9abed489dd1438b52"
+
+[versions]
+fabric = "0.14.12"
+minecraft = "1.19.3"

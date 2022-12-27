@@ -1,0 +1,126 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "b379855a3b75007c6548fc27dc2f6ae59e054d09dc77ed3f41aff79f537cc9cc"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
+metafile = true
+
+[[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "950e6f78d72ae5e4e00c5c3c0510f2a6b8f3d941a5a19b8edf83d28a70cbe976"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b4ac16e8e0113ff8be8ec0de146d94c104bed2cb27b9ffcf1567c460a575b27e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "b6f8dd724066667c1f859e2b31ab2bfcfdb66bb9df055282f0e57611ff83f6d4"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "e5855fd257f6f317c5529b727f04fd04eb897987efdc4bb99ad7abec43009e6b"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "77454bd9cdca6ffd16d96d445021360cbc669481d17abf06bbe1e672d431998a"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "35430da98294d5f94636277bf9705ada157eb6122d0e8272f5c3cb6ef76ebfd2"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "3bca5a31f4a469ca2c833cab5b87093ce809c2b599d6f93c19f78b69b78828a5"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "c33d4c86ca2416368635e5cef98bf8babb019b74eb77249ceedaed81812494fd"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e776fe49fb7af0a6d9d719cb966195c13a818619156cc96c9397d3d48445fa4a"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "4697f8eec2f5a8a6a3aca65ebad0cac1f6c6a29b4c0433e489d98985854731c5"
+metafile = true
+
+[[files]]
+file = "mods/no-enchant-cap.pw.toml"
+hash = "435ba8cee7cb70c66c183cdc7cf440071a6c28fed3fdd529ecba5170b5545194"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "193a15b6316f497a44fd76d8b307a7c2622b61dce68acc4aee26103f4e3989e9"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "c29f9e8eb2d91d6779d7200696caa433d915bcf05f7a5dcf144d19add3a53506"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a55efe201deb7eb0028776d3e219936f48084f9050703eff76da03926d1a850d"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d9b027d73943feb339c24045c37a36a69198bbffb9511978578f76cfb96b3bd3"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "c54898450be957120b32ad49ca448b3e89eecfd6905e53c3e2430681cbbe7c00"
+metafile = true
+
+[[files]]
+file = "mods/universal-shops.pw.toml"
+hash = "d9590d5617af2f6ff51595395229b20e13d0ead934abdacf0736c566758903f9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "457267d2e866064f026339f71553b6a9ffeb011a4c31f040ba00df773109362f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "458b91d701834cb402b571efcf471c8ce6e59150ca20c13d3877a683ab4e7ee1"
+metafile = true
