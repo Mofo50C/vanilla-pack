@@ -21,6 +21,11 @@ hash = "b4ac16e8e0113ff8be8ec0de146d94c104bed2cb27b9ffcf1567c460a575b27e"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "cb9e3a997ed8c2526794bf66ddbf1cb01d6e04068bb21ecd4b3036493ecd67f7"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "b6f8dd724066667c1f859e2b31ab2bfcfdb66bb9df055282f0e57611ff83f6d4"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "efd74699124f7103dbdfebd09a015cedcd3da986838cef422375865579005610"
 metafile = true
 
 [[files]]
