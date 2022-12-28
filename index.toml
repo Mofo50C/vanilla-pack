@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/EssentialCommands.properties"
+hash = "d482c36abb56d74ae4d2ac16704c105ee498af1cf237a34c1d66129731e3315e"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b379855a3b75007c6548fc27dc2f6ae59e054d09dc77ed3f41aff79f537cc9cc"
 metafile = true
